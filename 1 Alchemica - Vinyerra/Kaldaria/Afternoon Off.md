@@ -1,5 +1,7 @@
 A warm afternoon breeze brushed across the palace grounds, carrying the scent of fresh-cut grass to Tuthru’s nose. A pleasant tingle of warmth caressed her body, as the ambient warmth of the early Kaldari dry season. Tuthru took a deep breath and smiled; her belly was full of food, and her balls were heavy and sloshing, a happy combination indeed. She lazily shrugged off her robes and chucked them to one side where a masked servant fumbled to catch them before the garment hit the floor. The only thing covering her body now was a garish array of jewellery, which while it was more than what could be called a tasteful decoration, still left nothing to the imagination. On the contrary, far from hiding her robust curvaceous form, humongous bouncing mammaries and her bloated fat and mutant horsecock, the jewellery framed them and presented her assets even more prominently than had she simply been wearing nothing at all. Of course, while all of this was meant to enhance her image as the goddess of decadence, to those around her, out here in the garden where she could relax and be herself with her beloved wives, it made her feel like god of her own little world…which of course she was.
 
+With Tuthru's discarded robes in hand, the servant began to swiftly dash off ahead to warn the wives of their mistress' imminent arrival, meanwhile Tuthru clasped her hands behind her back and began to stroll at a leisurely pace toward the lake around which her gardens were constructed.
+
 ---
 
 “You might wanna get your makeup re-done love, your eyeliner’s running again.”
