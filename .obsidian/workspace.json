@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02d4eea0f83ef67c",
+            "id": "473c35a6390a24ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Afternoon Off"
             }
-          },
-          {
-            "id": "473c35a6390a24ba",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Figure 1 - Reproductive organs of a typical Deep Space Dragon.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Figure 1 - Reproductive organs of a typical Deep Space Dragon"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,22 +173,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d653d047bff05b81",
+  "active": "473c35a6390a24ba",
   "lastOpenFiles": [
-    "_Global/Deep Space Dragon Physiology.md",
-    "Images/Figure 1 - Reproductive organs of a typical Deep Space Dragon.jpg",
+    "1 Alchemica - Vinyerra/Kaldaria/Cooling Off.md",
     "1 Alchemica - Vinyerra/Kaldaria/Afternoon Off.md",
+    "1 Alchemica - Vinyerra/Kaldaria/Non-Canon/Ascension.md",
+    "_Global/Deep Space Dragon Physiology.md",
+    "_Global/_Seeds.md",
+    "Images/Figure 1 - Reproductive organs of a typical Deep Space Dragon.jpg",
     "Images",
     "_Global",
-    "1 Alchemica - Vinyerra/Kaldaria/Cooling Off.md",
     "1 Alchemica - Vinyerra/Kaldaria/Salivary Stimulation.md",
-    "_Global/_Seeds.md",
     "2 Sundown - Terra Nova/_Seeds.md",
     "1 Alchemica - Vinyerra/_Seeds.md",
     "1 Alchemica - Vinyerra/Kaldaria/Non-Canon/Tuthru x Krystal.md",
     "1 Alchemica - Vinyerra/Kaldaria/Non-Canon/The Maze.md",
     "1 Alchemica - Vinyerra/Drekania/Non-Canon/A Dragon's Right.md",
-    "1 Alchemica - Vinyerra/Kaldaria/Non-Canon/_Ascension.md",
     "2 Sundown - Terra Nova/Non-Canon/Caught in the Rain.md",
     "2 Sundown - Terra Nova/Non-Canon",
     "_Seeds",
